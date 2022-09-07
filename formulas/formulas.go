@@ -1,4 +1,4 @@
-package main
+package formulas
 
 func Sum(a int, b int) int {
 	return a + b
